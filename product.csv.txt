@@ -1,0 +1,11 @@
+Type,ID,Item,Qty,Price
+Chocolates,01,Munch,20,10
+Chocolates,02,Kitkat,20,10
+Chocolates,03,Perk,20,10
+Biscuits,04,Bourbon,20,10
+Biscuits,05,Goodday,20,10
+Biscuits,06,Time,20,10
+Soaps,07,Medimix,20,10
+Soaps,08,Lux,20,10
+Soaps,09,Liril,20,10
+
